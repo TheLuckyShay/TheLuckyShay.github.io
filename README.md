@@ -1,2 +1,2 @@
 # TheLuckyShay.github.io
-My Blog
+Custom Blog created with Jekyll and Github Pages
